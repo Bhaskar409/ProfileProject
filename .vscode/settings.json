@@ -1,0 +1,6 @@
+{
+    "livePreview.defaultPreviewPath": "/frontend/index.html",
+    "liveServer.settings.multiRootWorkspaceName": "ProfileProject",
+    "python-envs.defaultEnvManager": "ms-python.python:system",
+    "python-envs.pythonProjects": []
+}
